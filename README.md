@@ -1,13 +1,13 @@
 # Softing
 
-Softing is a web application for those who provide a software solution. It's a dynamic site. You will able to-\
-• Manage service and user review dynamically\
-• Authenticate user and manage user\
-• And manage order status through the Admin Panel
+Softing is a web application for those who provides software and IT related solution.\
+•	Developed API’s backend with endpoints and used MongoDB, NodeJS, express, ex-fileupload, Heroku, and Dotenv for CURD operation\
+•	Implemented user interface employing React, React Router, Bootstrap, React hook form\
+•	Authenticated user on Firebase and deployed client end site\
+•	Used Stripe for payment getaway
 
-Technology:\
-• React, React Router, Bootstrap, React hook form, Stripe, Firebase\
-• NodeJS, MongoDB, Heroku, Dotenv, express, ex-fileupload
+## [Client Side Code](https://github.com/fahimjason/softing-client)
+
 
 
 ### Please [Click Here](https://softing-fahim.web.app) to see the live site.
